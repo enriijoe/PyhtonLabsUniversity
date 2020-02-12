@@ -1,3 +1,1 @@
-# PyhtonLabsUniversity
-
-PSIS
+# PyhtonOrganization
